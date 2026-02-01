@@ -370,7 +370,11 @@ def predict_datapoint():
 - Updated `requirements.txt` with all dependencies
 - Configured Flask app for production
 - Set environment variable for PORT
+<<<<<<< HEAD
 - Removed AWS-specific files
+=======
+
+>>>>>>> f1f106c544f83b2ad680aa0748a569c61b8fa768
 
 #### 2. **Configuration**
 ```python
@@ -410,8 +414,13 @@ if __name__ == '__main__':
 
 #### 1. **Clone the Repository**
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/chm-hibatallah/student-performance-predictor.git
 cd student-performance-predictor
+=======
+git clone https://github.com/chm-hibatallah/ML-Project.git
+cd ML-Project
+>>>>>>> f1f106c544f83b2ad680aa0748a569c61b8fa768
 ```
 
 #### 2. **Create Virtual Environment**
@@ -502,7 +511,11 @@ Predicted Math Score: 73.45/100
 ## 📁 Project Structure
 
 ```
+<<<<<<< HEAD
 student-performance-predictor/
+=======
+ML-Project/
+>>>>>>> f1f106c544f83b2ad680aa0748a569c61b8fa768
 │
 ├── src/
 │   ├── components/
@@ -754,7 +767,11 @@ Contributions are welcome! Here's how you can help:
 **Project Author**: Chm Hibatallah
 
 - **GitHub**: [@chm-hibatallah](https://github.com/chm-hibatallah)
+<<<<<<< HEAD
 - **Project Link**: [https://github.com/chm-hibatallah/student-performance-predictor](https://github.com/chm-hibatallah/student-performance-predictor)
+=======
+- **Project Link**: [https://github.com/chm-hibatallah/ML-Project](https://github.com/chm-hibatallah/ML-Project)
+>>>>>>> f1f106c544f83b2ad680aa0748a569c61b8fa768
 - **Live Demo**: [https://ml-project-ed15.onrender.com](https://ml-project-ed15.onrender.com)
 
 ---
@@ -814,4 +831,8 @@ If you found this project helpful, please consider:
 
 **[⬆ Back to Top](#-student-exam-performance-predictor)**
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> f1f106c544f83b2ad680aa0748a569c61b8fa768
