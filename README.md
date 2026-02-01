@@ -370,7 +370,7 @@ def predict_datapoint():
 - Updated `requirements.txt` with all dependencies
 - Configured Flask app for production
 - Set environment variable for PORT
-- Removed AWS-specific files
+
 
 #### 2. **Configuration**
 ```python
